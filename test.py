@@ -4,6 +4,6 @@ def sum(a, b):
 def mul(a, b):
     return a * b
 
-def mul_3(a, b, c):
+def mul_4(a, b, c):
     return a*b*c
 
