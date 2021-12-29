@@ -1,0 +1,1 @@
+# https://teddylee777.github.io/python/python-inheritance
